@@ -23,7 +23,7 @@ Please install necessary packages before running the code, such as:
 - scipy
 - lingam
 
-For full package list and version requirements, please refer to `requirements.txt`.
+For full package list and version requirements, please refer to `environment.yml`.
 
 ## Quick Start
 
