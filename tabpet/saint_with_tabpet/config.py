@@ -51,8 +51,8 @@ TRAINING_CONFIG = {
 # Experiment configuration
 EXPERIMENT_CONFIG = {
     'seeds': [1, 2, 3, 4, 5],
-    # 'pe_alphas': [0.0, 0.05, 0.1, 0.2, 0.5, 0.7, 1.0, 2.0, 5.0, 10.0],
-    'pe_alphas': [0.0, 1.0],
+    'pe_alphas': [0.0, 0.05, 0.1, 0.2, 0.5, 0.7, 1.0, 2.0, 5.0, 10.0],
+    # 'pe_alphas': [0.0, 1.0], # for quick start
     'baseline_type': 'alpha_zero',
     'experiment_type': 'real_pe',
     'pe_integration_type': 'concat_fixed'
