@@ -1,5 +1,5 @@
 """
-Configuration file for the SAINT with Positional Encodings experiment
+Configuration file for the SAINT with Tab-PET experiment
 """
 
 # Dataset configuration

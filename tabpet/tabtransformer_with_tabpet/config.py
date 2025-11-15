@@ -1,5 +1,5 @@
 """
-Configuration file for the FT-Transformer with Positional Encodings experiment
+Configuration file for the TabTransformer with Tab-PET experiment
 """
 
 # Dataset configuration
