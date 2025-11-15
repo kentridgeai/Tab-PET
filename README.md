@@ -2,7 +2,7 @@
 
 [AAAI-26] Official implementation of Tab-PET: Graph-Based Positional Encodings for Tabular Transformers.
 
-![fig1](/Users/lengyunze/Library/Mobile Documents/com~apple~CloudDocs/NUS/MyPaper/AAAI2026/CRC/code/Figs/fig1.png)
+![fig1](./Figs/fig1.png)
 
 ## TL;DR
 
@@ -10,7 +10,6 @@ Supervised learning with tabular data presents unique challenges: low data sizes
 
 **Key Findings:**
 
-<<<<<<< HEAD
 - Graph-derived PEs significantly improve transformer performance on tabular data
 - PEs reduce the effective rank of embeddings, simplifying the learning task
 - Association-based graphs (especially Spearman correlation) consistently outperform causality-based approaches
@@ -39,9 +38,6 @@ conda env create -f environment.yml
 - `lingam` >= 1.10.0
 
 For full package list, see `environment.yml`.
-=======
-For full package list and version requirements, please refer to `environment.yml`.
->>>>>>> 73b9a08993885cbe80857354228cf76024d801ae
 
 ## Quick Start
 
