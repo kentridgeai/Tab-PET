@@ -71,7 +71,7 @@ python main.py <dataset_name> <dataset_version> [options]
 # Example: Test multiple alpha values
 python main.py steel-plates-fault 3 \
     --method spearman \
-    --pe_alphas 0 0.1 0.5 1.0 2.0 \
+    --pe_alphas 0 0.1 0.5 1.0 2.0
 
 # Example: Try different graph estimation approaches
 python main.py blood-transfusion-service-center 1 \
@@ -82,7 +82,7 @@ python main.py blood-transfusion-service-center 1 \
 python main.py california 4 \
     --num_epochs 200 \
     --batch_size 128 \
-    --seeds 1 2 3 \
+    --seeds 1 2 3
 ```
 
 The provided code gives a comparison between:
