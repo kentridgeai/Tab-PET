@@ -41,8 +41,6 @@ For full package list, see `environment.yml`.
 
 ## Quick Start
 
-For best performance with minimal computational overhead:
-
 ```bash
 cd ./tabpet/ft-transformer_with_tabpet
 python main.py cmc 1 --method spearman --gpu_id 0 --pe_alphas 0 1
