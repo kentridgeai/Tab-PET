@@ -123,7 +123,7 @@ python main.py <dataset_name> <dataset_version> \
 
 | Argument           | Type    | Default                                   | Description                  |
 | ------------------ | ------- | ----------------------------------------- | ---------------------------- |
-| `--method`         | str     | `spearman`                                | Graph estimation method      |
+| `--method`         | str     | `spearman`                                | Graph estimation approach    |
 | `--gpu_id`         | int     | `1`                                       | GPU device ID                |
 | `--pe_alphas`      | float[] | `0 0.05 0.1 0.2 0.5 0.7 1.0 2.0 5.0 10.0` | PE scaling factors to test   |
 | `--seeds`          | int[]   | `1 2 3 4 5`                               | Random seeds for experiments |
