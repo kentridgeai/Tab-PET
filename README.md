@@ -1,6 +1,7 @@
 # Tab-PET: Graph-Based Positional Encodings for Tabular Transformers
 
 [![arXiv](https://img.shields.io/badge/arXiv-2511.13338-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.13338)
+
 [AAAI-26] Official Implementation of Tab-PET: Graph-Based Positional Encodings for Tabular Transformers. Extended version with appendix can be found at [arXiv](https://arxiv.org/abs/2511.13338).
 
 ![fig1](./Figs/fig1.png)
